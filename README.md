@@ -1,2 +1,4 @@
-# kubectl2loadbalancer
-Uma demo para gerenciar seu cluster kubernetes de forma mais resiliente.
+# Adicione Mais Resiliência Para Gerenciar o Seu Cluster Kubernetes
+Uma proposta simples para adicionar mais resiliência na gerência do seu cluster kubernetes através do Kubernetes =)
+
+
